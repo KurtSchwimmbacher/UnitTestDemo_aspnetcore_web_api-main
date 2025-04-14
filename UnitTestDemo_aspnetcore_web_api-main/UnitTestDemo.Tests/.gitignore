@@ -1,0 +1,16 @@
+# Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Publish output
+*.publish/
+
+# OS generated files
+.DS_Store
+Thumbs.db
